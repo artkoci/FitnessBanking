@@ -1,4 +1,4 @@
-On average runners need to change their shoes every 500-700km. And since I've picked up running like last week because of the quarantine, and bought a pair of Nikes, I will decide to save up for the next pair of shoes starting from now.
+On average runners need to change their shoes every 500-700km. And since I've picked up running like last week because of the quarantine, and bought a pair of Nikes, I decided to save up for the next pair of shoes, whilst running.
 
 Idea:
 
