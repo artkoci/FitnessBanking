@@ -2,7 +2,7 @@
 ## Introduction
 On average runners need to change their shoes every 500-700km. Since I've picked up running during the quarantine, I decided to save up for my next pair of shoes whilst I run.
 
-###Idea:
+### Idea:
 
 - Shoes cost around 110 euros
 - They need to be changed every 600km 
@@ -10,7 +10,7 @@ On average runners need to change their shoes every 500-700km. Since I've picked
 - I do all my banking on bunq
 - Every kilometer I run my bunq pays 0.18 cents (110/600) to my "Run fatboy run" account
 
-###What do you need:
+### What do you need:
 
 - bunq account 🌈
 - Strava account 🏃‍
