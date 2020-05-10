@@ -1,0 +1,2 @@
+bunq-sdk==1.13.1
+stravaio==0.0.9
