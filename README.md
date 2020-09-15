@@ -15,6 +15,6 @@ On average runners need to change their shoes every 500-700km. Since I've picked
 - bunq account 🌈
 - Strava account 🏃‍
 - API access for both accounts. For more follow:
-  - bunq: https://www.bunq.com/api/developer
+  - bunq: https://developer.bunq.com/
   - Strava: https://developers.strava.com/
 - And start running
