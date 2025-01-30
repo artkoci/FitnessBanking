@@ -40,7 +40,7 @@ def make_payment(amount_euro, payment_description=PAYMENT_DESCRIPTION):
             description=payment_description
         )
     else:
-        print("No running distance to pay. Run more fatboy/girl! 🏃‍")
+        print("No running distance to pay. Run more fatboy! 🏃‍")
 
 
 def get_account_balance():
